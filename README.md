@@ -33,5 +33,5 @@ Le site est entièrement statique (HTML/CSS) et optimisé pour :
 ## Contact
 
 Tu veux collaborer, sponsoriser ou poser une question ?  
-Contact WhatsApp : [+49 123 456 7890](https://wa.me/491234567890)
+Contact : (https://wa.me/491234567890)
 Landing page SEO-friendly pour le canal Telegram dr0ugBerlin – scène underground, rave et produits à Berlin. Optimisé Google Ads &amp; Analytics.
